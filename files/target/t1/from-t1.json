@@ -1,0 +1,41 @@
+{
+  "Root": "files/sources/s3",
+  "Files": [
+    {
+      "Name": "a.txt",
+      "Content": "a",
+      "Basename": "a.txt",
+      "Extension": ".txt",
+      "Dir": "files/sources/s3/a",
+      "IsDirectory": true,
+      "Error": null
+    },
+    {
+      "Name": "a",
+      "Content": "",
+      "Basename": "a",
+      "Extension": "",
+      "Dir": "files/sources/s3",
+      "IsDirectory": true,
+      "Error": null
+    },
+    {
+      "Name": "b.txt",
+      "Content": "b",
+      "Basename": "b.txt",
+      "Extension": ".txt",
+      "Dir": "files/sources/s3/b",
+      "IsDirectory": true,
+      "Error": null
+    },
+    {
+      "Name": "b",
+      "Content": "",
+      "Basename": "b",
+      "Extension": "",
+      "Dir": "files/sources/s3",
+      "IsDirectory": true,
+      "Error": null
+    }
+  ]
+}
